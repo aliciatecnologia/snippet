@@ -123,7 +123,6 @@ body {
     font-weight: 800;
     margin-bottom: 1.5rem;
     background: linear-gradient(135deg, #fff, var(--accent-cyan));
-    -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     animation: fadeInUp 1s ease 0.2s both;
 }
