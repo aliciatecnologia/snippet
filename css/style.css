@@ -173,7 +173,7 @@ body {
 }
 
 .btn-secondary-custom {
-    background: transparent;
+    background: rgba(15, 23, 42, 0.9);
     color: var(--accent-cyan);
     border: 2px solid var(--accent-cyan);
     padding: 1rem 2.5rem;
